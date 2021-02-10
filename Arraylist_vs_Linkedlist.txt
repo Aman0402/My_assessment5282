@@ -1,0 +1,16 @@
+Arraylist:
+
+1- Arraylist is used to store dynamically sized collection array,it is resizable.
+
+2- Arraylist is slow when we add or delete any element because after that every element in array change its position.
+
+3- Arraylist is fast in searching, because of indexing.
+
+
+Linkedlist:
+
+1- Linkedlist in java is used to store data as well but elements are not stored in contiguous locations like arrays.
+
+2- Lnkedlist is fast in manipulation, can add or delete any element from  linkedlist more faster than array because it works on nodes.
+
+3- Linkedlist is slower in searching of elements or data in it.
